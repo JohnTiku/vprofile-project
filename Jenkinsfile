@@ -36,3 +36,4 @@ pipeline {
                 sh 'mvn test'
             }
         }
+}   }     
